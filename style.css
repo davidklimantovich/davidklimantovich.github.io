@@ -1,0 +1,100 @@
+    .content {
+     max-width: 800px;
+     margin: auto;
+    }
+    #grad1 {
+    height: 200px;
+    background-color: blue; 
+    background-image: linear-gradient(to right, blue , orange);
+    }
+    body {
+        background-color:white;
+        font-family: sans-serif;
+    }
+    h1{
+        text-align:center;
+    }
+    .contact
+    {
+        color:rgb(181,131,140);
+        text-align: center;
+    }
+    p {
+        color:rgb(181,131,94);
+        line-height:1.5em;
+        font-size:17px;
+    }
+    .heading{
+        color:rgb(181,131,140);
+        font-family:monospace;
+        text-align: center;
+
+    }
+    #about-me {
+        font-weight:bold;
+        font-style:italic;
+        color: rgb(181,131,94);
+    } 
+    html {
+     scroll-behavior: smooth;
+    }
+    a:hover{
+
+        background-color: green;
+
+    }
+    .header {
+    padding: 60px;
+    text-align: center;
+    background: #3b7fb6;
+    color: white;
+    font-size: 30px;
+    font-family: arial;
+    }
+    .header2 {
+    padding: 40px;
+    text-align: center;
+    background: #ffffff;
+    color: white;
+    font-size: 30px;
+    font-family: arial;
+    }
+
+    .button {
+    background-color: #d89e51; 
+    border: none;
+    color : white;
+    padding: 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: monospace;
+    margin: 7px 5px;
+    cursor: pointer;
+    }
+    #navbar {
+    overflow: hidden;
+    background-color: #333;
+    
+    }
+
+
+    #navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    }
+
+    .content {
+    padding: 16px;
+    }
+
+    .button4 {border-radius: 12px;}
+    h5{
+        color:rgb(181,131,94);
+        text-align: center;
+    }
